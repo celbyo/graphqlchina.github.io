@@ -1,5 +1,5 @@
 ---
-title: 模式与类型(Schemas and Types)
+title: 视图与类型(Schemas and Types)
 layout: ../_core/DocsLayout
 category: Learn
 permalink: /learn/schema/
